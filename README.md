@@ -21,8 +21,9 @@ TestNG is a testing framework inspired from JUnit and NUnit but introducing some
 ```
 Maven : https://maven.apache.org/ 
 Java Jdk : https://www.oracle.com/tr/java/technologies/javase-downloads.html
+or you can use intellij : https://www.jetbrains.com/idea/   intellij have own maven and jdk.
 
-if driver version expired then get latest version:
+if driver version expired or you have different version then get latest version:
 Chrome Driver : https://chromedriver.chromium.org/
 Gecko Driver : https://github.com/mozilla/geckodriver/releases
 
