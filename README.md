@@ -18,7 +18,6 @@ TestNG is a testing framework inspired from JUnit and NUnit but introducing some
 * Dependent methods for application server testing.
 
 ## Requirements
-```
 Maven :  [Maven Download](https://maven.apache.org/)
 Java Jdk : [Jdk Download](https://www.oracle.com/tr/java/technologies/javase-downloads.html )   
 or you can use intellij : [Intellij Download](https://www.jetbrains.com/idea/)    intellij have own maven and jdk.
@@ -27,7 +26,6 @@ if driver version expired or you have different version then get latest version:
 Chrome Driver : https://chromedriver.chromium.org/
 Gecko Driver : https://github.com/mozilla/geckodriver/releases
 
-```
 
 ## Maven install
 ```
